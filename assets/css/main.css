@@ -2874,14 +2874,20 @@
 				vertical-align: middle;
 			}
 
+			#header .logo .title {
+				display: none;
+			}
+			
+			
+			
 			#header .logo .symbol {
 				margin-right: 0.65em;
 			}
 
 				#header .logo .symbol img {
 					display: block;
-					width: 10em;
-					height: 10em;
+					width: 45em;
+					height: 25em;
 				}
 
 		#header nav {
